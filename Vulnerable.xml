@@ -1,0 +1,8 @@
+<!-- config.xml -->
+<configuration>
+  <appSettings>
+    <add key="databaseUsername" value="admin" />
+    <add key="databasePassword" value="supersecretpassword" />
+    <add key="apiKey" value="1234567890abcdef" />
+  </appSettings>
+</configuration>
